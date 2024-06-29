@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "97382933-5933-456F-A0FE-A621204B5845"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8BDA587-A405-46B8-8FF4-54AB3D21CD15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Models/Article.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8BDA587-A405-46B8-8FF4-54AB3D21CD15 - 590584ca91a25bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.Article.init(from: Swift.Decoder) throws -&gt; Kilde.Article"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Models/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "E8BDA587-A405-46B8-8FF4-54AB3D21CD15 - 590584ca91a25bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.Article.init(from: Swift.Decoder) throws -&gt; Kilde.Article"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Models/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "E8BDA587-A405-46B8-8FF4-54AB3D21CD15 - 590584ca91a25bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.Article.init(from: Swift.Decoder) throws -&gt; Kilde.Article"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Models/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB6A8F67-CB4C-439E-86CC-81FE009FE427"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Services/ArticleService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "postRequest(to:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB6A8F67-CB4C-439E-86CC-81FE009FE427 - 695dfa3da8ffff09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KildeWatch_Watch_App.ArticleServiceImpl.postRequest(to: KildeWatch_Watch_App.APIEndpoint, from: Swift.Array&lt;KildeWatch_Watch_App.Source&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;KildeWatch_Watch_App.Article&gt;, KildeWatch_Watch_App.APIError&gt;"
+                  moduleName = "KildeWatch Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "FB6A8F67-CB4C-439E-86CC-81FE009FE427 - 4861a800759c191d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (KildeWatch_Watch_App.Source) -&gt; Swift.String in KildeWatch_Watch_App.ArticleServiceImpl.postRequest(to: KildeWatch_Watch_App.APIEndpoint, from: Swift.Array&lt;KildeWatch_Watch_App.Source&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;KildeWatch_Watch_App.Article&gt;, KildeWatch_Watch_App.APIError&gt;"
+                  moduleName = "KildeWatch Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "FB6A8F67-CB4C-439E-86CC-81FE009FE427 - 11cf4133261b25ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.ArticleServiceImpl.postRequest(to: Kilde.APIEndpoint, from: Swift.Array&lt;Kilde.Source&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Kilde.Article&gt;, Kilde.APIError&gt;"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "FB6A8F67-CB4C-439E-86CC-81FE009FE427 - 7b29ea26e2244767"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Kilde.Source) -&gt; Swift.String in Kilde.ArticleServiceImpl.postRequest(to: Kilde.APIEndpoint, from: Swift.Array&lt;Kilde.Source&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Kilde.Article&gt;, Kilde.APIError&gt;"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FCFA2E3-4600-4381-9DD7-5E7D1F15F3A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Services/ArticleService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "postRequest(to:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FCFA2E3-4600-4381-9DD7-5E7D1F15F3A7 - 11cf4133261b25cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.ArticleServiceImpl.postRequest(to: Kilde.APIEndpoint, from: Swift.Array&lt;Kilde.Source&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;Kilde.Article&gt;, Kilde.APIError&gt;"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "2FCFA2E3-4600-4381-9DD7-5E7D1F15F3A7 - 695dfa3da8ffff2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KildeWatch_Watch_App.ArticleServiceImpl.postRequest(to: KildeWatch_Watch_App.APIEndpoint, from: Swift.Array&lt;KildeWatch_Watch_App.Source&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;KildeWatch_Watch_App.Article&gt;, KildeWatch_Watch_App.APIError&gt;"
+                  moduleName = "KildeWatch Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18E28B70-83F9-4BC2-9DE4-DA9B73DC432E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Services/SourceService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "loadSelectedSources()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18E28B70-83F9-4BC2-9DE4-DA9B73DC432E - cbd1454570da8b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.SourceService.loadSelectedSources() -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/SourceService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "18E28B70-83F9-4BC2-9DE4-DA9B73DC432E - 6a53aa41e92aa784"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KildeWatch_Watch_App.SourceService.loadSelectedSources() -&gt; ()"
+                  moduleName = "KildeWatch Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/SourceService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD9C11FA-B5AF-459B-833D-408DC0A416A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Services/SourceService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "loadSelectedSources()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD9C11FA-B5AF-459B-833D-408DC0A416A2 - cbd1454570da8bb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.SourceService.loadSelectedSources() -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/SourceService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "AD9C11FA-B5AF-459B-833D-408DC0A416A2 - 6a53aa41e92aa729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KildeWatch_Watch_App.SourceService.loadSelectedSources() -&gt; ()"
+                  moduleName = "KildeWatch Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/SourceService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35F14F8-8D43-4579-AEAD-1FB4B7542CB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Services/RouteFinder/KildeNavigationRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "push(to:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F35F14F8-8D43-4579-AEAD-1FB4B7542CB2 - 39b5ed3d46ae02fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.KildeNavigationRouter.push(to: Kilde.Route) -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/RouteFinder/KildeNavigationRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "F35F14F8-8D43-4579-AEAD-1FB4B7542CB2 - 39b5ed3d46ae02fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.KildeNavigationRouter.push(to: Kilde.Route) -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/RouteFinder/KildeNavigationRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "F35F14F8-8D43-4579-AEAD-1FB4B7542CB2 - 39b5ed3d46ae02fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.KildeNavigationRouter.push(to: Kilde.Route) -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Services/RouteFinder/KildeNavigationRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03FC5A59-C314-44CF-9668-81E6708A56FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Models/Article.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(headline:article:date:author:imageUrl:authorUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03FC5A59-C314-44CF-9668-81E6708A56FE - dc2a99baaa6414c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.Article.init(headline: Swift.String, article: Swift.String, date: Foundation.Date, author: Swift.String, imageUrl: Swift.String, authorUrl: Swift.String) -&gt; Kilde.Article"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Models/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "03FC5A59-C314-44CF-9668-81E6708A56FE - dc2a99baaa6414c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.Article.init(headline: Swift.String, article: Swift.String, date: Foundation.Date, author: Swift.String, imageUrl: Swift.String, authorUrl: Swift.String) -&gt; Kilde.Article"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Models/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFE621B0-3EC3-4C3C-8D33-5232A9547F5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Views/Pages/ArticleList/ArticleListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "fetchArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73F7225A-2725-4E0C-9D68-4D1EB397E64E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Views/Pages/Setting/Admin/AdminView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "runJobsTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73F7225A-2725-4E0C-9D68-4D1EB397E64E - 5e57aa1346ebe892"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.AdminViewModel.runJobsTapped() -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Views/Pages/Setting/Admin/AdminView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "73F7225A-2725-4E0C-9D68-4D1EB397E64E - 5e57aa1346ebe892"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kilde.AdminViewModel.runJobsTapped() -&gt; ()"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Views/Pages/Setting/Admin/AdminView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85C37497-344E-4F0C-ABA2-FF723F6B3A62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Models/Article.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(headline:article:date:author:imageUrl:authorUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36C3F9E4-DFCD-4110-9315-0947ECF21600"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Views/Pages/ArticleList/ArticleListViewTab.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "articleList(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DC3FDFD-A879-4C1F-BE6A-613331CD0A91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Views/Pages/ArticleList/ArticleListViewTab.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0DC3FDFD-A879-4C1F-BE6A-613331CD0A91 - 359a6c633013d8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Kilde.ArticleListViewTab.body.getter : some"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Views/Pages/ArticleList/ArticleListViewTab.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "0DC3FDFD-A879-4C1F-BE6A-613331CD0A91 - 359a6c633013d8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Kilde.ArticleListViewTab.body.getter : some"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Views/Pages/ArticleList/ArticleListViewTab.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0DC3FDFD-A879-4C1F-BE6A-613331CD0A91 - 359a6c633013d8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Kilde.ArticleListViewTab.body.getter : some"
+                  moduleName = "Kilde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adneny/Projects/NewsAPI/Kilde/Views/Pages/ArticleList/ArticleListViewTab.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14B3DF61-33D3-4B5B-8E26-01AA708FACF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Kilde/Views/Pages/ArticleList/ArticleListViewTab.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "articleCellView(article:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

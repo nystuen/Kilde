@@ -1,0 +1,44 @@
+// Settings
+"Settings" = "Innstillinger";
+"Admin Settings" = "Admin";
+"Sources" = "Kilder";
+"Selected sources" = "Valgte kilder";
+"Feedback" = "Tilbakemelding";
+"App Store" = "App Store";
+"Email" = "E-post";
+"Account Settings" = "Kontoinnstillinger";
+"Notifications" = "Varsler";
+"Dark mode" = "Nattmodus";
+"Varsler er slått av" = "Åpne Innstillinger";
+"For å motta varsler, må dette aktiveres i enhetsinnstillingene." = "Åpne Innstillinger";
+"Åpne Innstillinger" = "Åpne Innstillinger";
+"Selected sources" = "Valgte kilder";
+"Sign out" = "Logg ut";
+
+// Onboarding
+"Welcome to Kilde" = "Velkommen til Kilde";
+"Customize your news" = "Tilpass nyhetene dine";
+"Choose your own sources" = "Velg dine egne kilder";
+"Go to the front page 🎉" = "Gå til forsiden 🎉";
+"Customize your news feed by selecting your preferred sources." = "Skreddersy din nyhetsstrøm ved å velge dine foretrukne kilder.";
+"Discover the freshest news gathered in one place!" = "Oppdag de ferskeste nyhetene samlet på ett sted!";
+"Choose the news sources that matter most to you." = "Velg de nyhetskildene som betyr mest for deg.";
+
+// Article List
+"Display mode" = "Visningsmodus";
+"Big" = "Stort";
+"Normal" = "Normal";
+"Compact" = "Kompakt";
+"Article Display mode" = "Artikkelvisning";
+"List Display Mode" = "Listevisning";
+
+// Feedback
+"Submit" = "Send";
+"Takk!" = "Takk!";
+"Beskjed" = "Beskjed";
+"Tilbakemelding" = "Tilbakemelding";
+"Din beskjed motatt, takk!" = "Din beskjed er mottatt, takk for bidraget!";
+"Tilbakemeldingen din er sendt inn, takk for at du bidrar!" = "Tilbakemeldingen din er sendt inn, takk for at du bidrar!";
+"Gå tilbake" = "Gå tilbake";
+
+
